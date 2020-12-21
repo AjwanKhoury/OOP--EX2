@@ -42,7 +42,14 @@ We get more scores by collecting more Pokémon's which depends in our first agen
 The agents move by using Dijkstra-Algorithm (is an algorithm for finding the shortest paths between nodes in a graph).
 
 ## How to play the game?
-1.open the game.\
-2.choose the game scenarios[0-23].\
-3.add the locate for every agent then the game will start.\
+1.open the game.
+![Untitled](https://user-images.githubusercontent.com/73795045/102824355-56eee280-43e5-11eb-8774-d8bbb109ea01.png)
+
+2.choose the game scenarios[0-23].
+![Untitled3](https://user-images.githubusercontent.com/73795045/102824624-e2687380-43e5-11eb-802e-0e8638109832.png)
+
+
+3.add the locate for every agent then the game will start.
+![Untitled4](https://user-images.githubusercontent.com/73795045/102824785-2e1b1d00-43e6-11eb-8f03-3110f82031c1.png)
+
 in the end you will get your score!.
